@@ -57,3 +57,4 @@ after = template % {'name': name} # dictionary
 
 assert before == after
 
+# testin
