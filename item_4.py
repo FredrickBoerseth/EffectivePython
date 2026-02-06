@@ -166,4 +166,4 @@ places = 3
 num = 1.23456
 print(f'My number is {num:.{places}f}')
 
-# use f strings.. fuck the rest
+# use f strings.. fuck the rest boi
